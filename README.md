@@ -23,6 +23,8 @@ To run the game:
 
 
 
-Note: Git hub wouldnt allow me to upload the enitre thing in one go. File is over 30 MB of data. Run the .love file 
+Note: Git hub would not allow me to upload the enitre thing in one go. File is over 30 MB of data. Run the .love file 
+
+ > To unpack the .love file ( raname to .zip ) 
 
 
