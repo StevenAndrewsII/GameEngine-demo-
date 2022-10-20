@@ -17,8 +17,12 @@ I used this code as a test bed for new styles of writing and handling data struc
 
 
 To run the game:
->You must install love 2D ( 11.0 or greater !)
+> You must install love 2D ( 11.0 or greater !)
 >
->drag and drop the containing folder to the love2d.exe 
+> click on the .love file ( select open with --- > select love2d  )
+
+
+
+Note: Git hub wouldnt allow me to upload the enitre thing in one go. File is over 30 MB of data. Run the .love file 
 
 
