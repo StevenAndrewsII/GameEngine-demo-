@@ -5,7 +5,7 @@ A vary early attempt at a full game engine ( created in 2020 )  ( now depreciate
 ---------------------------------------------------------------------------------------------------------------------------------
 > All files, all images, all libraries were writen/created by Steven Andrews II.
 
-This was a vary early attempt at creating a 2.5D top-down graphics engine to support a game inspired by the anime ( Cowboy bebop )
+This was a early attempt at creating a 2.5D top-down graphics engine to support a game inspired by the anime ( Cowboy bebop )
 utilizing a free to use 2d game engine ( love 2d ). The entire engine is writen in LUA. 
 
 Developer notes: 
