@@ -12,7 +12,7 @@ Developer notes:
 I never finished the demo development, so many features are in the code itself yet can not be accesed by the user via gamepad control or any other UI. 
 To actually change the characters weapon you have to manually change the selected weapon in the mod.lua file. 
 
-I used this code as a test bed for new styles of writing and handling data structures in new and unique ways for game/app creation. Although I never finished the project or took it further than what it is. I gaind valuable knowledge and skill for future application desgine and development as well as large project managment. 
+I used this code as a test bed for new styles of writing and handling data structures in new and unique ways for game/app creation. Although I never finished the project or took it further than what it is. I gaind valuable knowledge and skills for future application desgine and development as well as large project managment. 
 
 
 To run the game:
