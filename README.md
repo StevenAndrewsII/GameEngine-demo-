@@ -5,7 +5,7 @@ A vary early attempt at a full game engine ( created in 2020 )  ( now depreciate
 ---------------------------------------------------------------------------------------------------------------------------------
 > All files, all images, all libraries were writen/created by Steven Andrews II.
 
-A small game engine demo to gain a further understanding of elaborate object oriented programming. Focuses heavily on structure and rendering of advanced animated composite body 2D models writen in LUA.
+A small game engine demo to gain a further understanding of elaborate object oriented programming. Focuses heavily on structure and rendering of advanced animated composite body 2D models written in LUA.
 
 Developer notes: 
 
